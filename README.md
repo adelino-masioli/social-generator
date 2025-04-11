@@ -77,3 +77,4 @@ Simply execute the script from your terminal within the project directory (and w
 
 ```bash
 python your_script_name.py
+ ```
